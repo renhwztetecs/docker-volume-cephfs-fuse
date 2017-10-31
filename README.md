@@ -10,8 +10,8 @@ github.com/ceph/go-ceph/cephfs <br>
 Build: <br>
 go build -o xxx driver.go main.go <br>
 
-``example:
-go build -o docker-volume-cephfs driver.go main.go
+`example:
+go build -o docker-volume-cephfs driver.go main.go`
 
 Run: <br>
 ./usr/local/go/bin/docker-volume-cephfs <br>
