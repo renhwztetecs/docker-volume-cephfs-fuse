@@ -5,6 +5,7 @@ Dependent: <br>
 github.com/docker/go-plugins-helpers/volume <br>
 github.com/ceph/go-ceph/rados <br>
 github.com/ceph/go-ceph/cephfs <br>
+/usr/local/go/pkg/src/github.com/ceph/go-ceph is download
 
 
 Build: <br>
